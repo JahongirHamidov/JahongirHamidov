@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning Data Structures & Algorithms 
 - 🌱 I like learning New Technologies and AI
 - 💬 Feel free to contact and ask any questions
-- ⚡ Facts: Leader and Smart | Hard Worker 
+- ⚡ Facts: I love AstroPhysics, Economy, NeuroScience and AI 
 
 ### Connect with me:
 
