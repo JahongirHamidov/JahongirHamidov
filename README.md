@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer | TUIT CS Student
 
-- 🔭 I’m currently learning Data Structures & Algorithms 
+- 🔭 I’m currently learning Data Structures & Algorithms & AI
 - 🌱 I like learning New Technologies and AI
 - 💬 Feel free to contact and ask any questions
 - ⚡ Facts: I love AstroPhysics, Economy, NeuroScience and AI 
