@@ -1,6 +1,6 @@
 ### Hi. I'm Jahongir 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JahongirHamido?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JahongirHamido)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JahongirHamido?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JahongirKh)
 
 ## I'm a Software Engineer | TUIT CS Student
 
