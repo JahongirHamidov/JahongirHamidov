@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer | I mostly use NodeJS and React 
 
-- 🔭 I’m currently learning advanced backend systems
+- 🔭 I’m currently learning advanced backend systems and Python
 - 🌱 I like learning New Technologies 
 - 💬 Feel free to contact and ask any questions
 
