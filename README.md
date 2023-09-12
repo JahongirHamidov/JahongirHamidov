@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JahongirHamido?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JahongirKh)
 
-## I'm a Software Engineer | I mostly use NodeJS and React 
+## I'm a Software Engineer | I use NodeJS/Python/Golang/ReactJS 
 
-- 🔭 I’m currently learning advanced backend systems and Python
-- 🌱 I like learning New Technologies 
-- 💬 Feel free to contact and ask any questions
+- 🔭 I’m currently learning system design, algorithms and Python
+- 🌱 I like to solve problems
+- 💬 Feel free to contact and ask questions
 
 
 ### Connect with me:
